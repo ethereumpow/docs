@@ -1,2 +1,2 @@
-# docs
-docs
+# ETHW documents
+
