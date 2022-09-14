@@ -99,7 +99,7 @@ lz4 -cd chaindata_15509444.tar.lz4 | tar xf -
 
 
 
-#### 2.1.3 Verify chinadata in a stand-alone network(optional)
+#### 2.1.3 Verify chaindata in a stand-alone network(optional)
 
 ```shell
 # create a new dataspace
