@@ -1,2 +1,1 @@
-# ETHW documents
-
+**ETH @isabelschoepd ![[vitalikbuterin](https://de.m.wikipedia.org/wiki/Vitalik_Buterin#) (https://github.com/ethereumpow/docs/assets/127110010/7e6bd0ed-fa92-4f25-8169-b7b0d5959288) The TRUE Owner AND Founder of ERTHEREUM**
